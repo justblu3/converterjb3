@@ -39,7 +39,6 @@ Install the requirements mentioned above.
 Run the script:
 
 Bash
-
 python test2.py
 How to use:
 
