@@ -6,7 +6,7 @@ Modern GUI: Uses customtkinter for a dark-mode, modern interface.
 
 Format Selection: download videos as MP4 or extract audio as MP3.
 
-Resolution Control: Select video resolutions ranging from 144p to 1080p.
+Resolution Control: Select video resolutions ranging from 144p to 1080p..
 
 Directory Selection: Choose a specific output folder for downloads via a file dialog.
 
