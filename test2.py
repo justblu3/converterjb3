@@ -74,7 +74,7 @@ def do_download():
 
     def cancel_check():
         if cancel_flag:
-            raise Exception("Download cancelled by user.")
+            raise Exception("Download cancelled by user")
 
     class CustomLogger:
         def debug(self, msg): pass
@@ -159,3 +159,4 @@ cancel_btn = ctk.CTkButton(button_frame, text="Cancel", command=cancel_download,
 cancel_btn.pack(side="left", padx=10)
 
 app.mainloop()
+
