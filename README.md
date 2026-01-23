@@ -12,7 +12,7 @@ Directory Selection: Choose a specific output folder for downloads via a file di
 
 Real-time Statistics: Displays download progress percentage, estimated time of arrival (ETA), download speed, and total file size.
 
-Cancellation: Ability to cancel an active download process;
+Cancellation: Ability to cancel an active download process
 
 Notifications: Plays a system sound notification upon completion.
 
